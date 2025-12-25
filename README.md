@@ -27,6 +27,11 @@
 * For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
 * For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
 
+
+# *Output*
+![project screenshot 01](first.png)
+![project screenshot 01](second.png)
+
 # *Contributions*
 
 - All contributors are most welcome! This is definitely open source!
